@@ -18,7 +18,8 @@
 }
 
 .product-detail-content {
-    display: flex;
+    display: block;
+    max-width: 500px;
     gap: 40px;
     background-color: #fff;
     padding: 30px;
@@ -27,8 +28,8 @@
 }
 
 .product-detail-image {
-    width: 400px;
-    height: 400px;
+    max-width: 100%;
+    height: auto;
     object-fit: cover;
     border-radius: 8px;
 }
