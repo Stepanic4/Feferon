@@ -1,22 +1,15 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Feferon
-        </p>
-        <a
-          className="App-link"
-          href="http://feferon.cz/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Jsme jedineční a nejlepší
-        </a>
+      <header>
+        <div>
+          <h2>
+              Ahoj, já jsem
+              <h1 className="aladin">Feferon</h1>
+          </h2>
+        </div>
       </header>
     </div>
   );
