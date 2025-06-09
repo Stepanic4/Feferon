@@ -1,0 +1,11 @@
+.notFoundPage {
+    padding-top: 150px;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: var(--color-dark);
+    color: var(--color-primary);
+}

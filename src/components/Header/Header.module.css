@@ -1,0 +1,100 @@
+/* src/components/Header/Header.module.css */
+
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: var(--header-height-initial);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 var(--spacing-medium);
+    background-color: transparent;
+    color: var(--color-primary);
+    z-index: var(--z-index-header);
+    transition: background-color 0.4s ease-out, height 0.4s ease-out;
+}
+
+.header.scrolled {
+    height: var(--header-height-scrolled);
+    background-color: var(--color-dark);
+}
+
+.leftSection,
+.centerSection,
+.rightSection {
+    display: flex;
+    align-items: center;
+    /*opacity: 0;*/
+    /*visibility: hidden;*/
+    /*transition: opacity 0.4s ease-out, visibility 0s linear 0.4s;*/
+}
+
+/*.header.scrolled .leftSection,*/
+/*.header.scrolled .centerSection,*/
+/*.header.scrolled .rightSection {*/
+/*    opacity: 1;*/
+/*    visibility: visible;*/
+/*    transition: opacity 0.4s ease-out;*/
+/*}*/
+
+.contactUsLink {
+    font-family: var(--font-primary);
+    font-size: var(--contact-us-font-size);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    padding: var(--spacing-extra-small) var(--spacing-small);
+}
+
+.contactUsLink:hover {
+    opacity: 0.8;
+}
+
+.feferonLogo {
+    font-family: var(--font-primary);
+    font-size: var(--header-logo-font-size-final);
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+
+.feferonLogo:hover {
+    opacity: 0.8;
+}
+
+.navIconContainer {
+    display: flex;
+    align-items: center;
+    margin-left: var(--spacing-medium);
+    position: relative;
+    padding: var(--spacing-extra-small);
+}
+
+.navIcon {
+    width: 24px;
+    height: 24px;
+    filter: invert(100%); /* Белые иконки на темном фоне */
+}
+
+.navIconContainer:hover {
+    opacity: 0.8;
+}
+
+.cartCount {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: var(--color-accent);
+    color: var(--color-dark);
+    font-size: 0.7em;
+    min-width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2px;
+    transform: translate(50%, -50%);
+    font-family: var(--font-secondary);
+}

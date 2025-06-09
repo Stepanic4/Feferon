@@ -1,0 +1,9 @@
+/* src/styles/_base.css */
+
+body {
+    font-family: var(--font-secondary);
+    line-height: 1.6;
+    color: var(--color-primary);
+    background-color: var(--color-dark); /* <-- ЭТОТ ЦВЕТ ДОЛЖЕН БЫТЬ ТЁМНЫМ */
+    overflow-x: hidden;
+}

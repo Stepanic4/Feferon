@@ -1,0 +1,19 @@
+/* src/styles/global.css */
+
+@import './_variables.css';
+@import './_base.css';
+@import './_typography.css';
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* Важно для корректных размеров элементов */
+}
+
+html {
+    box-sizing: border-box; /* Наследование для всех элементов */
+}
+
+*, *::before, *::after {
+    box-sizing: inherit; /* Все элементы будут наследовать border-box */
+}

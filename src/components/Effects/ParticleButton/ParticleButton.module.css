@@ -1,0 +1,19 @@
+/* src/components/Effects/ParticleButton/ParticleButton.module.css */
+
+.buttonPlaceholder {
+    padding: 15px 30px;
+    background-color: var(--color-accent);
+    color: var(--color-dark);
+    font-family: var(--font-primary);
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+    display: inline-block; /* Чтобы padding работал */
+    margin-top: var(--spacing-medium); /* Отступ от слогана */
+}
+
+.buttonPlaceholder:hover {
+    background-color: #d4af37; /* Более светлый акцент */
+}

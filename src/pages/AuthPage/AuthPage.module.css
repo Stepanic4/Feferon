@@ -1,0 +1,11 @@
+.authPage {
+    padding-top: 150px; /* Отступ, чтобы контент не перекрывался шапкой */
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: var(--color-dark); /* Для теста */
+    color: var(--color-primary);
+}

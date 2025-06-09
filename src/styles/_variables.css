@@ -1,0 +1,44 @@
+/* src/styles/_variables.css */
+
+:root {
+    /* Цвета */
+    --color-primary: #f0f0f0; /* Светлый основной цвет (для текста на темном фоне) */
+    --color-secondary: #c0c0c0; /* Второстепенный цвет */
+    --color-dark: #1a1a1a;    /* Темный фон */
+    --color-accent: #b8860b;  /* Золотистый/акцентный цвет */
+    --color-error: #e74c3c;   /* Цвет ошибок */
+
+    /* Шрифты */
+    --font-primary: 'Georgia', serif; /* Основной шрифт, как у Gucci */
+    --font-secondary: 'Arial', sans-serif; /* Второстепенный шрифт */
+
+    /* Отступы */
+    --spacing-extra-small: 5px;
+    --spacing-small: 10px;
+    --spacing-medium: 20px;
+    --spacing-large: 40px;
+    --spacing-extra-large: 80px;
+
+    /* Высоты элементов */
+    --header-height-initial: 90px;  /* Начальная высота шапки (прозрачной) */
+    --header-height-scrolled: 70px; /* Конечная высота шапки (при скролле) */
+
+    /* Размеры шрифтов для логотипа и заголовка */
+    --hero-title-font-size-initial: 12vw; /* Начальный размер для большого "Feferon" */
+    --header-logo-font-size-final: 2.5rem; /* Конечный размер для "Feferon" в шапке */
+    --contact-us-font-size: 1.2rem;     /* Размер для "Contact Us" */
+    --nav-item-font-size: 1rem;         /* Размер для элементов навигации */
+
+    /* Параметры скролл-анимации */
+    --scroll-start-offset: 50px;  /* Скролл, после которого начинается анимация */
+    --scroll-end-offset: 400px;   /* Скролл, после которого анимация завершена */
+
+    /* Переменная для прогресса анимации (будет управляться JS/GSAP) */
+    --animation-progress: 0; /* Значение от 0 до 1 */
+
+    /* Z-индексы */
+    --z-index-header: 1000;
+    --z-index-modal: 2000;
+    --z-index-overlay: 1500;
+    --z-index-hero-content: 10; /* Контент HeroSection над фоном */
+}
