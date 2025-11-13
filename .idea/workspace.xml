@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d3770ee0-61c9-4e40-992e-404f16eec90e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Feferon.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/icons/cart-icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/icons/user-icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/hero-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Auth/LoginForm/LoginForm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Auth/LoginForm/LoginForm.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Auth/RegisterForm/RegisterForm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Auth/RegisterForm/RegisterForm.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Button/Button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Button/Button.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Effects/ImageTransitionEffect/ImageTransitionEffect.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Effects/ImageTransitionEffect/ImageTransitionEffect.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Effects/PageTransitionEffect/PageTransitionEffect.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Effects/PageTransitionEffect/PageTransitionEffect.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Effects/ParticleButton/ParticleButton.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Effects/ParticleButton/ParticleButton.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/HeroSection/HeroSection.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/HeroSection/HeroSection.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ProductCard/ProductCard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ProductCard/ProductCard.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/contexts/AuthContext.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hooks/useAnimationProgress.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hooks/useAuth.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hooks/useMediaQuery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hooks/useScrollPosition.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/AuthPage/AuthPage.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/AuthPage/AuthPage.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/CartPage/CartPage.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/CartPage/CartPage.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/HomePage/HomePage.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/HomePage/HomePage.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/NotFoundPage/NotFoundPage.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/NotFoundPage/NotFoundPage.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/ProfilePage/ProfilePage.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/ProfilePage/ProfilePage.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/api.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/auth.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/product.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/_base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/_typography.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/_variables.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/global.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/constants.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/helpers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/webglUtils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite.config.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Stepanic4"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Stepanic4/Feferon.git",
+    "accountId": "47d2d054-e67a-4d25-99d2-9e8d423d16c5"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="35Q8MfI6vcLh3vip8SGnRQz7zPF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "advanced.settings",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-WS-252.27397.92" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3770ee0-61c9-4e40-992e-404f16eec90e" name="Changes" comment="" />
+      <created>1763030890933</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763030890933</updated>
+      <workItem from="1763030892891" duration="2533000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
