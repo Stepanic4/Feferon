@@ -6,7 +6,7 @@
 // Component call: <ProductsSection slug={slug} />
 // Input parameters: no input parameters
 // Output: products grid
-// *********************
+// *****************
 
 import React from "react";
 import ProductItem from "./ProductItem";
