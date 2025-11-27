@@ -26,6 +26,12 @@
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/api/auth/[...nextauth]/route.js"
+    ],
+    "/shop/[[...slug]]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/shop/[[...slug]]/page.css",
+      "static/chunks/app/shop/[[...slug]]/page.js"
     ]
   }
 }

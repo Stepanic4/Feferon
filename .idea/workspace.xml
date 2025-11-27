@@ -4,9 +4,299 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3770ee0-61c9-4e40-992e-404f16eec90e" name="Changes" comment="">
+    <list default="true" id="12a72ee7-f205-4040-8e2f-d7dd8f522d56" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/app-build-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/.next/app-build-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/.rscinfo" beforeDir="false" afterPath="$PROJECT_DIR$/.next/cache/.rscinfo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/chrome-devtools-workspace-uuid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/-8g2NNC9cWLaM4Wauebip8JseZi-k4QEZijaf1eqBHI/60.1763454685528.4w4p7XYtnRDIAoEOn-kkmmCesHGjdR7mu1IUqyxaIfQ.Vy8iMTFhLTE5YTdjZWZjOTdlIg.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/BoY5EigLbmBK3rpTVaiNmDjqIfN-zzCyWI9ZVtm_Whs/60.1763454685598.f-ZI_RXMrVwFZ-fOBQlVVtXXuFhcM2qelX_RTeFCShw.Vy8iMWIyLTE5YTdjZWZjOTFlIg.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/EHWl-bb2z5b7uQcWAPc99vaW9XFNxDAH3r5RfUDipPw/60.1763454685566.hF0ZIdY2g5DqHxi2jxze1pd1rFQFr3yZLpPUs3q3wgw.Vy8iMzdjLTE5YTdjZWZjOGZiIg.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/EPDVaujPqYkdl2a8h1dovatwkRtVhfU13yFjswqRAiM/60.1763454684064.Dskvkf34t5k9Y8WsMd0gnzi1eGApFgAJsHqBY0NnMnA.Vy8iOTNlMy0xOWE3Y2VmYzkyNyI.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/KIDEw70Wq_5j_M-SheCUzk-jEVfdLqBcGmXKyfuPhwU/60.1763454685800.-A3Ctsv4XgaJqsVa-RWdsAwEXsDVF4Qpn5gQC2cpGIM.Vy8iNWFlLTE5YTdjZWZjOGZiIg.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/OGR4tViyD7cH8xzuHRBOGqx1Vi8SVe9fzRmxAFNmQTo/60.1763454685799.8HsXaI2reDXVaJF7-67nnGiE5aVwS9j1DjjX3k4VU3Q.Vy8iM2JlLTE5YTdjZWZjOGZiIg.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/YyaoYBR9uUErxoFphKak92jdFX7txIiu-HDUs3T6PBc/60.1763454685534.Ppq_f_whsAvpYRbh6rlnT6EW9MTFPpsR4KGlnnb2vuk.Vy8iMzMyLTE5YTdjZWZjOTVlIg.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/hm4ih2L29xI-RzYF88QjzOQkLiVtewGrweOU9ooFvhk/60.1763454684075.eKD2UO2Pb8Sg9nxpSHKG-s3oK2qS0fVrqbIZ8osWOtQ.Vy8iMmI5YWQtMTlhN2NlZmM5OWQi.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/i3I5f_s7yuqSifAnYtOp4T4vC7vzfUtAginhjeeQjB8/60.1763454685529.sQH-aeD0wOElKS1E7f66I8jQ95yKmDO_OjxnbYKY4vY.Vy8iMWJlLTE5YTdjZWZjOTlkIg.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/iF2tZlIYNJW1yaXvWj8mJwpqINDoFcuygQ-IBn-YYMM/60.1763454685596.5elRbepxdL_puz3meeg0G9k5Ag5h0x00TMdWhKLttis.Vy8iM2M3LTE5YTdjZWZjOThmIg.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/mpZ4GKH5t8UJVGa-wpi-uxhPVgkBUm2KdNpmI4W3gYk/60.1763454685717.DUXMwWtPSjz3z63w7JlmPTRyb-faQ6qOoRrgeyBHOu8.Vy8iMWY4LTE5YTdjZWZjOTZmIg.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/nwInEzXnTWJLylfnDS3318FFoYlZ088p0Ulk4puu0bs/60.1763454685600.kyPls-cb2-m4CuUhy1pnAnD6lNbPywmkHVHvFuGus_E.Vy8iMTUwLTE5YTdjZWZjOTY4Ig.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/client-development/1.pack.gz" beforeDir="false" afterPath="$PROJECT_DIR$/.next/cache/webpack/client-development/1.pack.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/client-development/10.pack.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/client-development/2.pack.gz" beforeDir="false" afterPath="$PROJECT_DIR$/.next/cache/webpack/client-development/2.pack.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/client-development/3.pack.gz" beforeDir="false" afterPath="$PROJECT_DIR$/.next/cache/webpack/client-development/3.pack.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/client-development/4.pack.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/client-development/5.pack.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/client-development/6.pack.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/client-development/7.pack.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/client-development/8.pack.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/client-development/9.pack.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/client-development/index.pack.gz" beforeDir="false" afterPath="$PROJECT_DIR$/.next/cache/webpack/client-development/index.pack.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/client-development/index.pack.gz.old" beforeDir="false" afterPath="$PROJECT_DIR$/.next/cache/webpack/client-development/index.pack.gz.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/server-development/0.pack.gz" beforeDir="false" afterPath="$PROJECT_DIR$/.next/cache/webpack/server-development/0.pack.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/server-development/1.pack.gz" beforeDir="false" afterPath="$PROJECT_DIR$/.next/cache/webpack/server-development/1.pack.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/server-development/2.pack.gz" beforeDir="false" afterPath="$PROJECT_DIR$/.next/cache/webpack/server-development/2.pack.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/server-development/3.pack.gz" beforeDir="false" afterPath="$PROJECT_DIR$/.next/cache/webpack/server-development/3.pack.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/server-development/4.pack.gz" beforeDir="false" afterPath="$PROJECT_DIR$/.next/cache/webpack/server-development/4.pack.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/server-development/5.pack.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/server-development/6.pack.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/server-development/7.pack.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/server-development/index.pack.gz" beforeDir="false" afterPath="$PROJECT_DIR$/.next/cache/webpack/server-development/index.pack.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/server-development/index.pack.gz.old" beforeDir="false" afterPath="$PROJECT_DIR$/.next/cache/webpack/server-development/index.pack.gz.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/prerender-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/.next/prerender-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/app-paths-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/app-paths-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/app/api/auth/[...nextauth]/route.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/app/api/auth/[...nextauth]/route.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/app/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/app/page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/pages-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/pages-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/server-reference-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/server-reference-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/vendor-chunks/@swc.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/vendor-chunks/@swc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/vendor-chunks/nanoid.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/vendor-chunks/nanoid.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/vendor-chunks/next-auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/vendor-chunks/next-auth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/vendor-chunks/next.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/vendor-chunks/next.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/webpack-runtime.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/webpack-runtime.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/chunks/app-pages-internals.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/static/chunks/app-pages-internals.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/chunks/app/error.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/static/chunks/app/error.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/chunks/app/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/static/chunks/app/layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/chunks/app/not-found.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/static/chunks/app/not-found.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/chunks/app/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/static/chunks/app/page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/chunks/main-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/static/chunks/main-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/chunks/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/static/chunks/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/chunks/webpack.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/static/chunks/webpack.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/css/app/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/.next/static/css/app/layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/1c58d1e56a177113.webpack.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/56355026aef37e4f.webpack.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/app/layout.d923c5c8415b8d09.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/app/layout.dc53d2ba7630b9d9.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/d923c5c8415b8d09.webpack.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/dc53d2ba7630b9d9.webpack.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/webpack.1c58d1e56a177113.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/webpack.56355026aef37e4f.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/webpack.d923c5c8415b8d09.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/webpack.dc53d2ba7630b9d9.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/trace" beforeDir="false" afterPath="$PROJECT_DIR$/.next/trace" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BULK-UPLOAD-EXPLANATION.md" beforeDir="false" afterPath="$PROJECT_DIR$/BULK-UPLOAD-EXPLANATION.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BULK-UPLOAD-GUIDE.md" beforeDir="false" afterPath="$PROJECT_DIR$/BULK-UPLOAD-GUIDE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BULK-UPLOAD-QUICK-REFERENCE.md" beforeDir="false" afterPath="$PROJECT_DIR$/BULK-UPLOAD-QUICK-REFERENCE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DELETE-BULK-UPLOAD-GUIDE.md" beforeDir="false" afterPath="$PROJECT_DIR$/DELETE-BULK-UPLOAD-GUIDE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Providers.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Providers.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TROUBLESHOOTING-DELETE-BATCH.md" beforeDir="false" afterPath="$PROJECT_DIR$/TROUBLESHOOTING-DELETE-BATCH.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(dashboard)/admin/bulk-upload/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(dashboard)/admin/bulk-upload/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(dashboard)/admin/categories/[id]/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(dashboard)/admin/categories/[id]/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(dashboard)/admin/categories/new/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(dashboard)/admin/categories/new/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(dashboard)/admin/categories/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(dashboard)/admin/categories/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(dashboard)/admin/merchant/[id]/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(dashboard)/admin/merchant/[id]/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(dashboard)/admin/merchant/new/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(dashboard)/admin/merchant/new/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(dashboard)/admin/merchant/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(dashboard)/admin/merchant/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(dashboard)/admin/orders/[id]/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(dashboard)/admin/orders/[id]/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(dashboard)/admin/orders/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(dashboard)/admin/orders/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(dashboard)/admin/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(dashboard)/admin/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(dashboard)/admin/products/[id]/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(dashboard)/admin/products/[id]/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(dashboard)/admin/products/new/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(dashboard)/admin/products/new/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(dashboard)/admin/products/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(dashboard)/admin/products/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(dashboard)/admin/users/[id]/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(dashboard)/admin/users/[id]/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(dashboard)/admin/users/new/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(dashboard)/admin/users/new/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(dashboard)/admin/users/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(dashboard)/admin/users/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(dashboard)/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(dashboard)/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/_zustand/notificationStore.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/_zustand/notificationStore.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/_zustand/paginationStore.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/_zustand/paginationStore.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/_zustand/sortStore.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/_zustand/sortStore.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/_zustand/store.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/_zustand/store.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/_zustand/wishlistStore.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/_zustand/wishlistStore.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/actions/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/actions/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/api/auth/[...nextauth]/route.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/api/auth/[...nextauth]/route.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/api/register/route.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/api/register/route.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/cart/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/cart/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/checkout/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/checkout/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/error.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/error.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/login/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/login/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/not-found.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/not-found.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/notifications/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/notifications/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/product/[productSlug]/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/product/[productSlug]/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/product/not-found.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/product/not-found.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/register/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/register/page.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/search/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/search/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/shop/[[...slug]]/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/shop/[[...slug]]/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bulk-upload-example.csv" beforeDir="false" afterPath="$PROJECT_DIR$/bulk-upload-example.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bulk-upload-template-blank.csv" beforeDir="false" afterPath="$PROJECT_DIR$/bulk-upload-template-blank.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bun.lock" beforeDir="false" afterPath="$PROJECT_DIR$/bun.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/AddToCartSingleProductBtn.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/AddToCartSingleProductBtn.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/AdminOrders.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/AdminOrders.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Breadcrumb.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Breadcrumb.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/BulkUploadHistory.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/BulkUploadHistory.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/BuyNowSingleProductBtn.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/BuyNowSingleProductBtn.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/CartElement.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/CartElement.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/CategoryItem.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/CategoryItem.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/CategoryMenu.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/CategoryMenu.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Checkbox.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Checkbox.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ColorInput.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ColorInput.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/CustomButton.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/CustomButton.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/DashboardProductTable.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/DashboardProductTable.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/DashboardSidebar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/DashboardSidebar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Filters.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Filters.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Footer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/HeaderTop.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/HeaderTop.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Heading.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Heading.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/HeartElement.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/HeartElement.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Hero.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Hero.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Incentives.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Incentives.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/IntroducingSection.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/IntroducingSection.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Loader.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Loader.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Newsletter.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Newsletter.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/NotificationBell.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/NotificationBell.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/NotificationCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/NotificationCard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/OrderItem.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/OrderItem.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Pagination.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Pagination.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ProductItem.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ProductItem.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ProductTabs.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ProductTabs.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Products.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Products.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ProductsSection.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ProductsSection.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/QuantityInput.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/QuantityInput.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/QuantityInputCart.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/QuantityInputCart.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Range.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Range.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/RangeWithLabels.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/RangeWithLabels.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/SearchInput.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/SearchInput.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/SectionTitle.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/SectionTitle.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/SessionTimeoutTest.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/SessionTimeoutTest.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/SessionTimeoutWrapper.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/SessionTimeoutWrapper.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/SimpleSlider.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/SimpleSlider.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/SingleProductDynamicFields.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/SingleProductDynamicFields.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/SortBy.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/SortBy.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/StatsElement.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/StatsElement.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/StockAvailabillity.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/StockAvailabillity.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/UrgencyText.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/UrgencyText.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/components/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/modules/cart/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/modules/cart/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/modules/wishlist/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/modules/wishlist/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helpers/is-browser.ts" beforeDir="false" afterPath="$PROJECT_DIR$/helpers/is-browser.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helpers/is-small-screen.ts" beforeDir="false" afterPath="$PROJECT_DIR$/helpers/is-small-screen.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/useNotifications.ts" beforeDir="false" afterPath="$PROJECT_DIR$/hooks/useNotifications.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/useSessionTimeout.ts" beforeDir="false" afterPath="$PROJECT_DIR$/hooks/useSessionTimeout.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/useSessionTimeoutTest.ts" beforeDir="false" afterPath="$PROJECT_DIR$/hooks/useSessionTimeoutTest.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/api.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/api.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/form-sanitize.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/form-sanitize.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/notification-api.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/notification-api.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/notification-helpers.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/notification-helpers.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/sanitize.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/sanitize.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/utils.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/utils.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/middleware.ts" beforeDir="false" afterPath="$PROJECT_DIR$/middleware.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/postcss.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/postcss.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prisma/migrations/20240320142857_podesavanje_prizme/migration.sql" beforeDir="false" afterPath="$PROJECT_DIR$/prisma/migrations/20240320142857_podesavanje_prizme/migration.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prisma/migrations/20240413064716_added_order_table/migration.sql" beforeDir="false" afterPath="$PROJECT_DIR$/prisma/migrations/20240413064716_added_order_table/migration.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prisma/migrations/20240414064137_added_category_table_and_added_role_column/migration.sql" beforeDir="false" afterPath="$PROJECT_DIR$/prisma/migrations/20240414064137_added_category_table_and_added_role_column/migration.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prisma/migrations/20240415100000_added_category_id_field_in_product_table/migration.sql" beforeDir="false" afterPath="$PROJECT_DIR$/prisma/migrations/20240415100000_added_category_id_field_in_product_table/migration.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prisma/migrations/20240415130405_added_relationship_between_product_table_and_category_table/migration.sql" beforeDir="false" afterPath="$PROJECT_DIR$/prisma/migrations/20240415130405_added_relationship_between_product_table_and_category_table/migration.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prisma/migrations/20240418151340_added_new_customer_order_table/migration.sql" beforeDir="false" afterPath="$PROJECT_DIR$/prisma/migrations/20240418151340_added_new_customer_order_table/migration.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prisma/migrations/20240512145715_bojan_update_za_customer_order_product/migration.sql" beforeDir="false" afterPath="$PROJECT_DIR$/prisma/migrations/20240512145715_bojan_update_za_customer_order_product/migration.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prisma/migrations/20240515154444_added_necessary_fields_for_customer_order_table/migration.sql" beforeDir="false" afterPath="$PROJECT_DIR$/prisma/migrations/20240515154444_added_necessary_fields_for_customer_order_table/migration.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prisma/migrations/20240602092804_added_wishlist_table/migration.sql" beforeDir="false" afterPath="$PROJECT_DIR$/prisma/migrations/20240602092804_added_wishlist_table/migration.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prisma/migrations/20240607074201_added_cascade_delete_in_wishlist_table/migration.sql" beforeDir="false" afterPath="$PROJECT_DIR$/prisma/migrations/20240607074201_added_cascade_delete_in_wishlist_table/migration.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prisma/migrations/20240607075549_added_cascade_delete_for_categories_in_product_table/migration.sql" beforeDir="false" afterPath="$PROJECT_DIR$/prisma/migrations/20240607075549_added_cascade_delete_for_categories_in_product_table/migration.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prisma/migrations/20240607083528_added_cascade_delete_for_wishlist_in_product_table/migration.sql" beforeDir="false" afterPath="$PROJECT_DIR$/prisma/migrations/20240607083528_added_cascade_delete_for_wishlist_in_product_table/migration.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prisma/migrations/20240607111047_added_unique_constraint_to_name_column_in_the_category_table/migration.sql" beforeDir="false" afterPath="$PROJECT_DIR$/prisma/migrations/20240607111047_added_unique_constraint_to_name_column_in_the_category_table/migration.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prisma/migrations/migration_lock.toml" beforeDir="false" afterPath="$PROJECT_DIR$/prisma/migrations/migration_lock.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prisma/schema.prisma" beforeDir="false" afterPath="$PROJECT_DIR$/prisma/schema.prisma" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-template-blank.csv" beforeDir="false" afterPath="$PROJECT_DIR$/product-template-blank.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-template-ready.csv" beforeDir="false" afterPath="$PROJECT_DIR$/product-template-ready.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-template.csv" beforeDir="false" afterPath="$PROJECT_DIR$/product-template.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product.csv" beforeDir="false" afterPath="$PROJECT_DIR$/product.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo v1 svg.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/logo v1 svg.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/server/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/controllers/bulkUpload.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/controllers/bulkUpload.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/controllers/category.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/controllers/category.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/controllers/customer_order_product.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/controllers/customer_order_product.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/controllers/customer_orders.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/controllers/customer_orders.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/controllers/mainImages.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/controllers/mainImages.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/controllers/merchant.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/controllers/merchant.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/controllers/notificationController.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/controllers/notificationController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/controllers/productImages.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/controllers/productImages.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/controllers/products.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/controllers/products.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/controllers/search.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/controllers/search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/controllers/slugs.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/controllers/slugs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/controllers/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/controllers/users.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/createAdminUser.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/createAdminUser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/listUsers.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/listUsers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/makeUserAdmin.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/makeUserAdmin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/middleware/advancedRateLimiter.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/middleware/advancedRateLimiter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/middleware/rateLimiter.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/middleware/rateLimiter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/middleware/requestLogger.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/middleware/requestLogger.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/prisma/migrations/migration_lock.toml" beforeDir="false" afterPath="$PROJECT_DIR$/server/prisma/migrations/migration_lock.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/prisma/schema.prisma" beforeDir="false" afterPath="$PROJECT_DIR$/server/prisma/schema.prisma" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/routes/bulkUpload.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/routes/bulkUpload.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/routes/category.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/routes/category.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/routes/customer_order_product.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/routes/customer_order_product.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/routes/customer_orders.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/routes/customer_orders.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/routes/mainImages.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/routes/mainImages.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/routes/merchant.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/routes/merchant.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/routes/notifications.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/routes/notifications.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/routes/productImages.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/routes/productImages.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/routes/products.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/routes/products.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/routes/search.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/routes/search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/routes/slugs.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/routes/slugs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/routes/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/routes/users.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/routes/wishlist.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/routes/wishlist.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/scripts/backup-database.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/scripts/backup-database.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/scripts/check-categories.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/scripts/check-categories.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/scripts/create-default-categories.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/scripts/create-default-categories.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/scripts/create-sample-notifications.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/scripts/create-sample-notifications.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/scripts/generate-product-template.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/scripts/generate-product-template.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/scripts/migration-validator.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/scripts/migration-validator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/scripts/test-connection.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/scripts/test-connection.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/scripts/test-migration-validator.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/scripts/test-migration-validator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/services/bulkUploadService.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/services/bulkUploadService.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/test-db-connection.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/test-db-connection.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/test-logging.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/test-logging.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/test-output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/test-output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/tests/bulk-upload-smoketest.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/tests/bulk-upload-smoketest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/tests/check-bulk-results.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/tests/check-bulk-results.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/tests/check-bulk-upload.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/tests/check-bulk-upload.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/tests/check-products-db.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/tests/check-products-db.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/tests/create-category.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/tests/create-category.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/tests/curl-test-command.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/tests/curl-test-command.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/tests/db-check.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/tests/db-check.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/tests/debug-bulk-upload.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/tests/debug-bulk-upload.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/tests/repro-bulk.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/tests/repro-bulk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/tests/simple-server-test.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/tests/simple-server-test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/tests/test-bulk-upload-endpoint.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/tests/test-bulk-upload-endpoint.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/tests/test-create-product.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/tests/test-create-product.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/tests/test-create-verify.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/tests/test-create-verify.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/tests/test-db-bulk.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/tests/test-db-bulk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/tests/test-delete-batch.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/tests/test-delete-batch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/tests/test-upload-direct.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/tests/test-upload-direct.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/utills/db.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/utills/db.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/utills/db.ts" beforeDir="false" afterPath="$PROJECT_DIR$/server/utills/db.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/utills/errorHandler.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/utills/errorHandler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/utills/insertDemoData.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/utills/insertDemoData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/utills/notificationHelpers.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/utills/notificationHelpers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/utills/validation.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/utills/validation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/view-logs.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/view-logs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailwind.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-bulk-upload.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-bulk-upload.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/types/notification.ts" beforeDir="false" afterPath="$PROJECT_DIR$/types/notification.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typings.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typings.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/SessionProvider.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/utils/SessionProvider.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/adminAuth.ts" beforeDir="false" afterPath="$PROJECT_DIR$/utils/adminAuth.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/auth.ts" beforeDir="false" afterPath="$PROJECT_DIR$/utils/auth.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/categoryFormating.ts" beforeDir="false" afterPath="$PROJECT_DIR$/utils/categoryFormating.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/db.ts" beforeDir="false" afterPath="$PROJECT_DIR$/utils/db.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/errorHandler.ts" beforeDir="false" afterPath="$PROJECT_DIR$/utils/errorHandler.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/insertDemoData.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/insertDemoData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/schema.ts" beforeDir="false" afterPath="$PROJECT_DIR$/utils/schema.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/validation.ts" beforeDir="false" afterPath="$PROJECT_DIR$/utils/validation.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,28 +306,30 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;Stepanic4&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Stepanic4"
   }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Stepanic4/Feferon.git&quot;,
-    &quot;accountId&quot;: &quot;47d2d054-e67a-4d25-99d2-9e8d423d16c5&quot;
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Stepanic4/Feferon.git",
+    "accountId": "47d2d054-e67a-4d25-99d2-9e8d423d16c5"
   }
-}</component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 2
-}</component>
-  <component name="ProjectId" id="35Q8MfI6vcLh3vip8SGnRQz7zPF" />
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="363bzkFEXncFLDccocBLuvqHv3W" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -51,8 +343,6 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "npm.Next.js: server-side.executor": "Run",
-    "settings.editor.selected.configurable": "advanced.settings",
     "to.speed.mode.migration.done": "true",
     "ts.external.directory.path": "D:\\Works\\Feferon\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
@@ -82,17 +372,21 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d3770ee0-61c9-4e40-992e-404f16eec90e" name="Changes" comment="" />
-      <created>1763030890933</created>
+      <changelist id="12a72ee7-f205-4040-8e2f-d7dd8f522d56" name="Changes" comment="" />
+      <created>1764238468637</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1763030890933</updated>
-      <workItem from="1763030892891" duration="5281000" />
-      <workItem from="1763454509960" duration="10575000" />
+      <updated>1764238468637</updated>
+      <workItem from="1764238471649" duration="2685000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/server/utills/db.js" />
+      </list>
+    </option>
   </component>
 </project>
