@@ -58,7 +58,7 @@ model Customer_order {
   phone       String
   email       String
   company     String
-  adress      String
+  address      String
   apartment   String
   postalCode  String
   dateTime    DateTime?                @default(now())
@@ -136,7 +136,7 @@ model Merchant {
   createdAt   DateTime @default(now())
   updatedAt   DateTime @updatedAt
 
-  // relasi
+  // release
   products Product[]
 }
 
