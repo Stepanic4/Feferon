@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12a72ee7-f205-4040-8e2f-d7dd8f522d56" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/api/auth/[...nextauth]/options.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/api/auth/[...nextauth]/route.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/api/auth/[...nextauth]/route.ts" afterDir="false" />
-    </list>
+    <list default="true" id="12a72ee7-f205-4040-8e2f-d7dd8f522d56" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,7 +100,7 @@
       <workItem from="1765971281987" duration="178000" />
       <workItem from="1765971532058" duration="452000" />
       <workItem from="1765972003462" duration="2670000" />
-      <workItem from="1765974738199" duration="298000" />
+      <workItem from="1765974738199" duration="610000" />
     </task>
     <servers />
   </component>

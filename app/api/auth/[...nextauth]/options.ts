@@ -1,12 +1,10 @@
-// app/api/auth/[...nextauth]/options.ts
-import GithubProvider from "next-auth/providers/github";
+
 import CredentialsProvider from "next-auth/providers/credentials";
 import GoogleProvider from "next-auth/providers/google";
 import bcrypt from "bcryptjs";
 import prisma from "@/utils/db";
 import { nanoid } from "nanoid";
 
-// Убираем сложную типизацию, на которой виснет WebStorm
 export const authOptions: any = {
     providers: [
         CredentialsProvider({
