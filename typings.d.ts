@@ -110,6 +110,9 @@ declare module "next-auth" {
     id: string;
     role: string;
   }
+
+    export class NextAuthOptions {
+    }
 }
 
 declare module "next-auth/jwt" {
