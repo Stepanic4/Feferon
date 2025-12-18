@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12a72ee7-f205-4040-8e2f-d7dd8f522d56" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/api/auth/[...nextauth]/options.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/api/auth/[...nextauth]/options.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/adminAuth.ts" beforeDir="false" afterPath="$PROJECT_DIR$/utils/adminAuth.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prisma/schema.prisma" beforeDir="false" afterPath="$PROJECT_DIR$/prisma/schema.prisma" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +105,7 @@
       <workItem from="1765971281987" duration="178000" />
       <workItem from="1765971532058" duration="452000" />
       <workItem from="1765972003462" duration="2670000" />
-      <workItem from="1765974738199" duration="955000" />
+      <workItem from="1765974738199" duration="5226000" />
     </task>
     <servers />
   </component>

@@ -1,6 +1,5 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    // ДОБАВЛЯЕМ ЭТУ СЕКЦИЮ:
     eslint: {
         // Это позволит успешно завершить билд, даже если в коде есть ошибки линтинга
         ignoreDuringBuilds: true,
