@@ -1,4 +1,3 @@
-
 import CredentialsProvider from "next-auth/providers/credentials";
 import GoogleProvider from "next-auth/providers/google";
 import bcrypt from "bcryptjs";
@@ -16,8 +15,10 @@ export const authOptions: any = {
             },
             async authorize(credentials: any) {
                 try {
+                    // Приводим email к нижнему регистру для поиска
+                    const lowerEmail = credentials.email.toLowerCase();
                     const user = await prisma.user.findFirst({
-                        where: { email: credentials.email },
+                        where: { email: lowerEmail },
                     });
                     if (user) {
                         const isPasswordCorrect = await bcrypt.compare(
@@ -25,6 +26,7 @@ export const authOptions: any = {
                             user.password!
                         );
                         if (isPasswordCorrect) {
+                            // Возвращаем объект пользователя с ролью
                             return { id: user.id, email: user.email, role: user.role };
                         }
                     }
@@ -41,15 +43,16 @@ export const authOptions: any = {
 
             if (account?.provider === "github" || account?.provider === "google") {
                 try {
+                    const lowerEmail = (user.email as string).toLowerCase();
                     const existingUser = await prisma.user.findFirst({
-                        where: { email: user.email as string },
+                        where: { email: lowerEmail },
                     });
 
                     if (!existingUser) {
                         await prisma.user.create({
                             data: {
                                 id: nanoid(),
-                                email: user.email as string,
+                                email: lowerEmail,
                                 role: "user",
                                 password: null,
                             },
@@ -64,21 +67,16 @@ export const authOptions: any = {
             return true;
         },
         async jwt({ token, user }: any) {
+            // При первом входе переносим роль из БД в токен
             if (user) {
                 token.role = user.role;
                 token.id = user.id;
-                token.iat = Math.floor(Date.now() / 1000);
             }
-
-            const now = Math.floor(Date.now() / 1000);
-            if (token.iat) {
-                const tokenAge = now - (token.iat as number);
-                if (tokenAge > 15 * 60) return {};
-            }
-
+            // УДАЛЕНО: условие 'tokenAge > 15 * 60', которое выкидывало тебя из системы
             return token;
         },
         async session({ session, token }: any) {
+            // Переносим роль из токена в сессию браузера
             if (token && session.user) {
                 (session.user as any).role = token.role;
                 (session.user as any).id = token.id;
@@ -87,8 +85,15 @@ export const authOptions: any = {
         },
     },
     pages: { signIn: '/login', error: '/login' },
-    session: { strategy: "jwt", maxAge: 15 * 60, updateAge: 5 * 60 },
-    jwt: { maxAge: 15 * 60 },
+    // Увеличено время жизни сессии с 15 минут до 30 дней
+    session: {
+        strategy: "jwt",
+        maxAge: 30 * 24 * 60 * 60,
+        updateAge: 24 * 60 * 60
+    },
+    jwt: {
+        maxAge: 30 * 24 * 60 * 60
+    },
     secret: process.env.NEXTAUTH_SECRET,
     debug: process.env.NODE_ENV === "development",
 };
